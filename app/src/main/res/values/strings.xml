@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">腕上小纸条FTP传输工具</string>
+
+    <string name="main_title">腕上小纸条FTP传输工具</string>
+    <string name="main_ip">ip地址：</string>
+    <string name="main_port">端口号：</string>
+    <string name="main_name">用户名：</string>
+    <string name="main_ip_hint">192.168.0.xxx</string>
+    <string name="main_port_hint">2221</string>
+    <string name="main_name_hint">user</string>
+    <string name="main_connect_qr">扫码连接</string>
+    <string name="main_connect">连接</string>
+    <string name="main_loading"> 连接中…</string>
+    <string name="main_right">v1.2\n\@luern0313</string>
+    
+    <string name="transfer_title">选择要传输的文件</string>
+    <string name="transfer_select">选择文件</string>
+    <string name="transfer_transfer">开始传输</string>
+    <string name="transfer_ok">已连接</string>
+    <string name="transfer_tip">传输位置：手表根目录/FTP接收文件</string>
+    <string name="transfer_list_empty">文件列表为空！\n点击上方按钮选择要传输的文件</string>
+    <string name="transfer_finish_title">传输完成</string>
+    <string name="transfer_finish_message">共传输 %d 项，传输成功 %d 项，传输失败 %d 项</string>
+</resources>

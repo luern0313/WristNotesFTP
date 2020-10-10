@@ -1,0 +1,2 @@
+rootProject.name='WristReaderFTP'
+include ':app'
